@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Q-Perior Server Time</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Q-Perior Server Time</string>
+    <string name="timer">Server Times</string>
+    <string name="detailedInfo">This App uses a JWebSocket connection. The values you see, are sent by the server, and not requested by this application.</string>
+    <string name="connectionstring">ws://localhost:8787/jWebSocket/jWebSocket</string>
+</resources>

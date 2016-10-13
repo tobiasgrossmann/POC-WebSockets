@@ -1,0 +1,8 @@
+Exception in thread "jWebSocket-Client 21" java.lang.NullPointerException
+	at org.jwebsocket.client.java.BaseWebSocketClient$WebSocketReceiver.run(BaseWebSocketClient.java:790)
+Exception in thread "jWebSocket-Client 22" java.lang.NullPointerException
+	at org.jwebsocket.client.java.BaseWebSocketClient$WebSocketReceiver.run(BaseWebSocketClient.java:790)
+Exception in thread "jWebSocket-Client 23" java.lang.NullPointerException
+	at org.jwebsocket.client.java.BaseWebSocketClient$WebSocketReceiver.run(BaseWebSocketClient.java:790)
+Exception in thread "jWebSocket-Client 24" java.lang.NullPointerException
+	at org.jwebsocket.client.java.BaseWebSocketClient$WebSocketReceiver.run(BaseWebSocketClient.java:790)

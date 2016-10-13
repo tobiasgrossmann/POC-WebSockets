@@ -1,0 +1,4 @@
+If you want to use your PlugIn in a stand alone jWebsocket-Server (jWebSocketRoot) you have to export your plugin-files as a *.jar-file.
+*.jar → libs
+*.xml → conf
+

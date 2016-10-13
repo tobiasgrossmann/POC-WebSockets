@@ -1,0 +1,6 @@
+
+SET PATH: 
+JWEBSOCKET_HOME 
+C:\workspace\Q-Perior JSocket Test\SocketServer
+
+and run the server: bin/jWebSocketServer64.bat
